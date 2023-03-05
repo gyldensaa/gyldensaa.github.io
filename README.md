@@ -1,2 +1,2 @@
-# gyldensaa.github.io
+# Gyldensaa på GitHub
 Lidt tekst
